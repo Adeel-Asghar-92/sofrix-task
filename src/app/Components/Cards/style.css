@@ -1,0 +1,32 @@
+.acctBgImg {
+  background-image: url("/images/BackgroundIcons-eab2b1d3.png");
+  background-size: "contain";
+}
+.acctBgImgMob {
+  background-image: url("/images/BackgroundBrokerage-7d961a23.svg");
+  background-size: "cover";
+}
+.prtFloBgImg {
+  background-image: url("/images/BackgroundPotfolio-9a0466c1.png");
+  background-size: "contain";
+}
+.prtFloBgImgMob {
+  background-image: url("/images/BackgroundPortfolio-3f1fe332.svg");
+  background-size: "cover";
+}
+.autoBgImg {
+  background-image: url("/images/BackgroundAutomate-9d8b94b8.png");
+  background-size: "contain";
+}
+.autoBgImgMob {
+  background-image: url("/images/BackgroundAutomate-8497ca69.svg");
+  background-size: "cover";
+}
+.investBgImg {
+  background-image: url("/images/BackgroundReports-baaabb97.png");
+  background-size: "contain";
+}
+.investBgImgMob {
+  background-image: url("/images/BackgroundInvestor-65fff57d.svg");
+  background-size: "cover";
+}
